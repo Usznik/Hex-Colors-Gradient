@@ -1,0 +1,15 @@
+.container
+{
+display: flex;
+justify-content: center;
+margin-top: 15%;
+}
+.hex-colors
+{
+    text-align: center;
+    justify-content: safe;
+}
+.btn
+{
+ text-align: center;
+}
